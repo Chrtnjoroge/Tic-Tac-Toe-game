@@ -18,7 +18,7 @@ This is a simple Tic-Tac-Toe game implemented using Python and the Tkinter libra
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/chrtnjorige/tic-tac-toe.git
+   git clone https://github.com/Chrtnjorige/tic-tac-toe.git
    cd tic-tac-toe
    ```
 
